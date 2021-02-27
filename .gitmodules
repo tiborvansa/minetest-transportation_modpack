@@ -1,0 +1,6 @@
+[submodule "planes/hot_air_balloons"]
+	path = planes/hot_air_balloons
+	url = https://notabug.org/NetherEran/hot_air_balloons.git
+[submodule "ships/sailing_kit"]
+	path = ships/sailing_kit
+	url = https://github.com/TheTermos/sailing_kit.git
